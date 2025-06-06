@@ -10,10 +10,20 @@
       "duration": 6.309666666666667,
       "sample_rate": 24000,
       "created_at": "2025-05-31T00:54:21.102387"
+    },
+    {
+      "name": "fran_fem_sample2",
+      "audio_path": "/workspace/runttspod/voices/fran-fem/fran_fem_sample.wav",
+      "transcription": "Oh, wow... ¿Puedes oírme...? ¿De verdad... me estás escuchando? teehee",
+      "language": "es",
+      "quality_score": 1.0,
+      "duration": 7.3,
+      "sample_rate": 24000,
+      "created_at": "2025-06-06T10:46:49.310933"
     }
   ],
-  "total_samples": 1,
-  "average_duration": 6.309666666666667,
+  "total_samples": 2,
+  "average_duration": 6.9,
   "created_at": "2025-05-31T04:18:53.111940",
-  "updated_at": "2025-06-02T14:31:00.000000"
+  "updated_at": "2025-06-06T10:46:49.310933"
 }
